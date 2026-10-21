@@ -19,7 +19,7 @@ This is where our plugins, our MCP server and our open source pixel art tools li
 
 | Repo | What it does |
 |---|---|
-| [sprite-ai-mcp](https://github.com/sprite-ai-dev/sprite-ai-mcp) | The Sprite AI MCP server. Make sprites from Claude Code, Cursor or any MCP client. |
+| [sprite-ai-mcp](https://github.com/sprite-ai-studio/sprite-ai-mcp) | The Sprite AI MCP server. Make sprites from Claude Code, Cursor or any MCP client. |
 
 ### Use it
 
